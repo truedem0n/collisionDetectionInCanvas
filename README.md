@@ -1,2 +1,2 @@
 # particleInCircle
-particle following cursor in circular motion
+collision system on canvas
